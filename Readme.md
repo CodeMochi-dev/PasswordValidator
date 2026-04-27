@@ -53,4 +53,4 @@ mvn test
 
 ## Autor
  Los promp-gramadores.
-<img src="assets/WhatsApp-Image-2026-04-15-at-23.01.49.jpg" alt="Los Prompt-Gramadores" width="400"/>
+ <img src="assets/WhatsApp-Image-2026-04-15-at-23.01.49.jpg" alt="Los Prompt-Gramadores" width="400"/>
